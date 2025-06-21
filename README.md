@@ -28,6 +28,6 @@ A FastAPI backend service for book management with JWT authentication, reviews, 
 - Python 3.9+
 - FastAPI
 - SQLAlchemy (ORM)
-- PostgreSQL/SQLite
+- PostgreSQL
 - Pydantic (Data validation)
 - JWT (Authentication)
