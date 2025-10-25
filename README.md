@@ -42,5 +42,6 @@ A FastAPI backend service for book management with JWT authentication, reviews, 
 - FastAPI
 - SQLAlchemy (ORM)
 - PostgreSQL
+- Alembic (database migrations)
 - Pydantic (Data validation)
 - JWT (Authentication)
