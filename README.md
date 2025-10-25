@@ -5,12 +5,12 @@ A FastAPI backend service for book management with JWT authentication, reviews, 
 ## Quick Start with Docker
 
 - Clone the repository:
-   -git clone https://github.com/AadarshU210/Fastapi_Bookly
-   -cd Fastapi_Bookly
+    * git clone https://github.com/AadarshU210/Fastapi_Bookly
+    * cd Fastapi_Bookly
 - Run with Docker Compose:
-   -docker-compose up --build
+    * docker-compose up --build
 - Access the API documentation:
-   -http://localhost:8000/api/v1/docs
+    * http://localhost:8000/api/v1/docs
 
  The database migrations run automatically on startup.
 
